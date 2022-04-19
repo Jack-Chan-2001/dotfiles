@@ -1,2 +1,2 @@
 # dotfiles
-Jack's dotfiles
+Hi! I'm Jack. It's my dotfiles.
