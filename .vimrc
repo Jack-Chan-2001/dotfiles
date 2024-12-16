@@ -19,6 +19,7 @@ syntax on
 set number
 set ruler
 set cursorline
+set guicursor=a:block
 set showcmd			" Show (partial) command in status line.
 set showmode	 	" Show the current mode
 set showmatch
