@@ -9,8 +9,7 @@ if you want to give these dotfiles a try, you should first review the code. Don'
 **.vimrc**
 
 ```shell
-sudo echo "source /etc/vim/.vimrc" >> /etc/vim/vimrc
-sudo cp ./.vimrc /etc/vim/
+sudo cp ./vimrc.local /etc/vim/
 source /etc/vim/vimrc
 ```
 
